@@ -1,16 +1,31 @@
-## Hi there 👋
+# Prince Junior Mguni
 
-<!--
-**Roya1jr/Roya1jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/princejr)
+[![GitHub](https://img.shields.io/github/url/Roya1jr/Roya1jr)](https://github.com/Roya1jr)
+[![Email](https://img.shields.io/email/prince.mguni@outlook.com)](mailto:prince.mguni@outlook.com)
 
-Here are some ideas to get you started:
+## About Me 👋🏾
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a full-stack developer with a focus on backend development and DevOps. I also have an interest in array programming languages.
+
+## Skills
+
+### Languages
+
+* Golang, Typescript,Uiua
+
+### Containerization
+
+* Kubernetes (K3S), Podman
+
+## GitHub Stats
+
+![Languages Used (By File Size)](https://raw.githubusercontent.com/Roya1jr/github_stats/refs/heads/main/languages.svg)
+
+---
+
+**Contact:**
+
+* Email: [prince.mguni@outlook.com](mailto:prince.mguni@outlook.com)
+* LinkedIn: [https://www.linkedin.com/in/princejr](https://www.linkedin.com/in/princejr)
+* GitHub: [https://github.com/Roya1jr](https://github.com/Roya1jr)
