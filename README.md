@@ -20,12 +20,6 @@ I'm a full-stack developer with a focus on backend development and DevOps. I als
 ---
  ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) [![KDE](https://img.shields.io/badge/-KDE-0F7DC2?logo=kde&logoColor=white)](https://kde.org/)
 
-## GitHub Stats
-
-![Languages Used (By File Size)](https://raw.githubusercontent.com/Roya1jr/github_stats/refs/heads/main/languages.svg)
-
----
-
 **Contact:**
 
 * [![Email](https://img.shields.io/badge/-Email-blue?logo=microsoftoutlook&logoColor=white)](prince.mguni@outlook.com): [prince.mguni@outlook.com](mailto:prince.mguni@outlook.com)
